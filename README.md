@@ -1,6 +1,6 @@
 # Dressify – Try-On Studio (React + Vite)
 
-**Live demo:** https://piyush1shende2.github.io/dress-1/
+**Live demo:** https://piyush1shende2.github.io/dress-ai/
 
 ## Offline use
 - After the first visit the site is cached by a service worker and opens without internet (production build / live site).
